@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         setSupportActionBar(toolbar)
 
         // Set the title
-        supportActionBar?.title = "Shared Preference Data Security"
+        supportActionBar?.title = "  SharedPreferences Data Security"
 
 
         keyEditText = findViewById(R.id.keyEditText)
