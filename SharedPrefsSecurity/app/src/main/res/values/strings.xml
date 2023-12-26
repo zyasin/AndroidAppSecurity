@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPrefsSecurity</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="save">Save</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="enter_key">Enter Key</string>
+</resources>
